@@ -130,7 +130,7 @@ attaverso il comando `perl6 -e 'tuo-codice-qui'` e premendo [Enter].
 
 [NOTE]
 --
-Rakudo Star contiene un editor di liea che permette di fare quasi tutto senza REPL.
+Rakudo Star contiene un editor di liena che permette di fare quasi tutto senza REPL.
 
 Se hai installato il semplice Rakudo invece di Rakudo Star allor probabilmente non avrai
 abilitate le funzionalità di editing  di linea (che sono frecce alto e basso per la storia,
